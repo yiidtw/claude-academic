@@ -1,7 +1,7 @@
 {
   "name": "claude-academic",
-  "description": "Minimal academic paper writing — NeurIPS workshop paper scaffolding, LaTeX compilation, and standard academic diagrams (TikZ).",
-  "version": "0.1.0",
+  "description": "Academic paper writing for major ML/AI venues (NeurIPS, ICML, ACL, AAAI, CVPR/ICCV, ICLR) — scaffolding, LaTeX compilation, and standard academic diagrams (TikZ).",
+  "version": "0.2.0",
   "author": {
     "name": "ydwu",
     "url": "https://github.com/yiidtw"
